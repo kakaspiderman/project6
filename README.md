@@ -11,3 +11,6 @@
 >>>引用
 
 ---
+![git](http://git-scm.com/images/logo@2x.png)
+
+[百度](http://baidu.com)
